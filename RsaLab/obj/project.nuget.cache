@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7o2T9m9I8+I8MN3VIZmdQ2/8vrQc72y8ZcZjejVjJS1Nf5EYRBxH48ekqRs6CA1g3Z+RDq+/LS20gi62GrjF4g==",
+  "success": true,
+  "projectFilePath": "D:\\{--УЧЕБА--}\\алгоритмы\\RSA\\Rsa_lab-master\\RsaLab\\RsaLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rredl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\rredl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rredl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rredl\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
